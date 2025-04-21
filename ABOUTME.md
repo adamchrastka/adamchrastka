@@ -4,8 +4,8 @@
 - I’m looking to collaborate on anything reasonable.
 - Pronouns: he/him
 - Fun fact: I like games, especially Minecraft and Elden Ring
-- My contancs:
--   Discord: maerodil#0
+- My contants:
+-   Discord: maerodil
 -   E-mail: adam.chrastka@gmail.com
 
 <!---
