@@ -2,8 +2,7 @@
 - I’m interested in how mirror works
 - I’m currently learning why my RPi crashes
 - I’m looking to collaborate on anything reasonable.
-- Pronouns: he/him
-- Fun fact: I like little easy fun projects.
+- Fun fact: I'm handsome
 - My contants:
 -   Discord: maerod1l
 -   E-mail: adam.chrastka@gmail.com
