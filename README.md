@@ -5,7 +5,7 @@
 - Pronouns: he/him
 - Fun fact: I like games, especially Minecraft and Elden Ring
 - My contants:
--   Discord: maerodil
+-   Discord: maerod1l
 -   E-mail: adam.chrastka@gmail.com
 
 <!---
