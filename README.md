@@ -1,5 +1,5 @@
 - Hi, I’m Adam Chrástka
-- I’m interested in how mirror works
+- I’m interested in how the mirror works
 - I’m currently learning why my RPi crashes
 - I’m looking to collaborate on anything reasonable.
 - Fun fact: I'm handsome
