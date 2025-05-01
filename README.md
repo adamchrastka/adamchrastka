@@ -1,4 +1,4 @@
-- Hi, I’m Adam Chrástka
+- Hi, I’m Adam, also known as Maerodil
 - I’m interested in how the mirror works
 - I’m currently learning why my RPi crashes
 - I’m looking to collaborate on anything reasonable.
