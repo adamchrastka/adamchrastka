@@ -4,7 +4,7 @@
 - I’m looking to collaborate on anything reasonable.
 - Fun fact: I'm handsome
 - My contants:
--   Discord: maerod1l
+-   Discord: maerodil
 -   E-mail: adam.chrastka@gmail.com
 
 <!---
