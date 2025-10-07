@@ -2,7 +2,6 @@
 - I’m interested in how the mirror works
 - I’m currently learning why my RPi crashes
 - I’m looking to collaborate on anything reasonable.
-- Fun fact: I'm handsome
 - My contants:
 -   Discord: maerodil
 -   E-mail: adam.chrastka@gmail.com
