@@ -1,10 +1,4 @@
 - Hi, I’m Adam
-- I’m interested in how the mirror works
-- I’m currently learning why my RPi crashes
-- I’m looking to collaborate on anything reasonable.
-- My contants:
--   Discord: maerodil
--   E-mail: adam.chrastka@gmail.com
 
 <!---
 adamchrastka/adamchrastka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
